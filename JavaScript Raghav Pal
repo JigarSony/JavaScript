@@ -1,0 +1,168 @@
+JavaScript Raghav Pal
+
+Video - 1
+
+High-level language images - http://bit.ly/2L7OwcY
+Interpreted language images - http://bit.ly/2x6Sdra
+JavaScript releases - https://www.w3schools.com/js/js_versi...
+JavaScript releases - https://developer.mozilla.org/en-US/d...
+JavaScript frameworks - https://raygun.com/blog/popular-javas...
+
+What is JavaScript?
+Who created JavaScript?
+When was JavaScript created?
+Use of JavaScript?
+What is ECMAScript?
+
+Video - 2
+
+JavaScript - https://en.wikipedia.org/wiki/JavaScript
+Mosaic browser - https://en.wikipedia.org/wiki/Mosaic_...)
+Netscape Navigator - https://en.wikipedia.org/wiki/Netscap...
+
+Video - 3
+
+How JavaScript Runs
+What is JavaScript Engine
+Chrome - V8
+Node.js - V8
+Firefox - SpiderMonky
+IE - JScript
+Safari - JavaScriptCore
+Microsoft Edge - Chakra
+Opera - Futhark
+References:
+Javascript engine images - http://bit.ly/2IIc3Qh
+Javascript engine list -https://en.wikipedia.org/wiki/JavaScr...
+
+Video - 4
+
+JavaScript Online Editors - https://blog.education-ecosystem.com/...
+JavaScript Offline Editors - https://www.infoworld.com/article/319...
+JavaScript IDE - https://www.infoworld.com/article/319...
+VS Code - https://code.visualstudio.com/
+
+www.scrimba.com
+
+Video - 5
+
+1. Download and setup - windows and Mac OS
+2. GUI & Features
+3. Components
+4. Settings
+5. How to create folders
+6. How to create files
+7. How to run code
+8. Tips & Tricks
+
+
+Step 1 : Download and open visual studio code
+   https://code.visualstudio.com/
+
+Step 2 : Explore GUI
+
+Step 3 : Command Pallete - ctrl + shift + P
+
+Step 4 : Open folder
+
+Step 5 : Create file
+
+Step 6 : Add Extensions “Run code” ealint
+
+Step 7 : Create and run code
+
+Zen mode 
+
+
+References
+https://code.visualstudio.com/docs#vs...
+https://code.visualstudio.com/docs/ge...
+
+C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code
+
+Video - 7
+
+Comments
+Used to provide information about the code
+Can be used in general to provide any information or suggestions
+Makes easy to understand the code or get more information
+Can also be used to comment out code sections
+Comments are ignored by JavaScript Engine
+
+Variables
+Syntax
+let x;
+let x = 10;
+let x, y;
+let x=10, y=20;
+
+Used to store data
+Can be looked as containers for storing data values
+Must contain only letters, digit or $ and _ symbol
+
+Guidelines
+Must begin with a letter or underscore _
+Should not start with number
+Must not be a reserved keyword like if, else, boolean, let etc
+Variables are case sensitive
+Use meaningful names
+Use camel casing
+
+Video - 8
+
+What is an Operator
+An operator is a symbol that usually represents an action or process
+Let sum = 10 + 20
+= Assignment Operator
++ Arithmetic Operator (addition)
+
+Operators
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Type Operators
+Bitwise Operators
+
+Arithmetic Operator
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+% Modulus (Remainder of Division)
+** Exponential
+++ Increment
+-- Decrement
+
+Video - 9
+
+Assignment Operators
+= Assign 
++= Add and assign
+-=  Sub and assign
+*=  Multiply and assign
+/=  Divide and assign
+%=  Modulus and assign
+**= Exponential and assign
+
+Video - 10
+
+Comparison Operators
+==  equal to
+===  equal value and equal type
+!=  not equal to
+!==  not equal value and type
+＞  greater than
+＜  less than
+＞=  greater than or equal
+＜=  less than or equal
+?  ternary operator
+
+Video - 11
+
+&& . - logical AND | True if both conditions are true
+||  - logical OR | True if any of the condition is true
+! logical NOT| Will return true if the condition is false and vice versa
+
+Video - 12
+
