@@ -1,3 +1,3 @@
 # JavaScript
 
-##by Raghav Pal
+## by Raghav Pal
